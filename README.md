@@ -1,2 +1,2 @@
-# cemetry_magment_system
+# cemetry_managment_system
 laravel and vue crud application
